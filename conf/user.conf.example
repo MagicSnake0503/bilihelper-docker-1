@@ -49,12 +49,12 @@ DANMU_ROOMID=9522051
 DANMU_CONTENT=
 
 # 视频投币|投币稿件数(每日任务最大5)|自定义稿件ID,空则随机(AV_NUM=1生效)
-USE_ADD_COIN=false
-ADD_COIN_AV_NUM=1
-ADD_COIN_AV=33492180
+USE_ADD_COIN=true
+ADD_COIN_AV_NUM=5
+ADD_COIN_AV=
 
 # 休眠时间|时间区间(0-23)|逗号分隔
-USE_SLEEP=true
+USE_SLEEP=false
 SLEEP_SECTION=2,3,4,5,6
 
 #######################
